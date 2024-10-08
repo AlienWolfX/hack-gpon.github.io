@@ -19,6 +19,7 @@ Here is a list of the most popular Vendor IDs:
 | `ASKY` | `41534b59` | Askey                |
 | `CDKT` | `43444B54` | KingType             |
 | `CIGG` | `43494747` | Cig                  |
+| `CXNK` | `43584e4b` | Calix                |
 | `DDKT` | `44444b54` | DKT                  |
 | `DLNK` | `444c4e4b` | Dlink                |
 | `DSNW` | `44534e57` | DASAN                |
@@ -43,6 +44,7 @@ Here is a list of the most popular Vendor IDs:
 | `PTIN` | `5054494e` | Altice/PT Inovação   |
 | `RTKG` | `52544b47` | Realtek              |
 | `SCOM` | `53434f4d` | Sercomm              |
+| `SKYW` | `534b5957` | Skyworth             |
 | `SMBS` | `534d4253` | Sagemcom             | 
 | `SPGA` | `53504741` | SourcePhotonics      |
 | `TMBB` | `544d4242` | Technicolor          |
