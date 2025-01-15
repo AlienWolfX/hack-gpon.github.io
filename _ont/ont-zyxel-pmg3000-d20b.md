@@ -23,7 +23,7 @@ parent: Zyxel
 | Optics           | SC/APC                                                     |
 | IP address       | 10.10.1.1                                                  |
 | Web Gui          | ✅ username `admin` or `guest`, password `1234` or `guest` |
-| SSH              | ✅ username `admin`, password `admin`                      |
+| SSH              | ✅ username `admin`, password `admin`. Not available in firmware V1.00(ABVJ.1)b1e |
 | Telnet           |                                                            |
 | Serial           | ✅                                                         |
 | Serial baud      | 115200                                                     |
@@ -49,13 +49,14 @@ The stick has a TTL 3.3v UART console (configured as 115200 8-N-1) that can be a
 
 - [Halny HL-GSFP](/ont-halny-hl-gsfp)
 - [D-LINK DPN-100-Rev-A2](/ont-d-link-dpn-100-rev-a2)
-- [Ziza OP151s](/ont-ziza-op151s)
+- [Zisa OP151s](/ont-zisa-op151s)
 - [T&W TW2362H-CDEL](/ont-t-w-tw2362h-cdel)
 
 ## List of software versions
 - V1.00(ABVJ.0)b3s (2020)
 - V1.00(ABVJ.0)b3i (2020)
 - V1.00(ABVJ.0)b3v
+- V1.00(ABVJ.1)b1e (ca. 2024)
 - V2.50(ABVJ.0)b1b (2022)
 - V2.50(ABVJ.1)b1d (2023)
 
